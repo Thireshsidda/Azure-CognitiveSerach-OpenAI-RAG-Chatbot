@@ -1,1 +1,1 @@
-# AOAISearchSolutionAcceleratorChatbot
+# AzureOpenAISearch-SolutionAcceleratorChatbot
